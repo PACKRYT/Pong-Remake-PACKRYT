@@ -2,7 +2,7 @@
 
 PONG Remake est une recréation fidèle du jeu de Pong classique, développé sur Scratch par PACKRYT.
 Ce projet revisite l'un des tout premiers jeux vidéo en conservant son gameplay original tout en y ajoutant une touche de personnalisation pour les utilisateurs de Scratch.
-Gameplay
+Gameplay :
 Le jeu reprend les règles emblématiques de Pong :
 Deux joueurs contrôlent chacun une raquette (barre) de chaque côté de l'écran.
 Une balle rebondit entre les raquettes et les murs, et le but est d'empêcher la balle de passer derrière sa raquette.
