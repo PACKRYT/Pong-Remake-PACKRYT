@@ -9,3 +9,9 @@ Une balle rebondit entre les raquettes et les murs, et le but est d'empêcher la
 Chaque fois qu'un joueur manque la balle, l'adversaire marque un point.
 Développement et fonctionnalités
 Développé sur Scratch , PONG Remake reste fidèle au style rétro du jeu original. L'expérience est entièrement classique , avec des contrôles simples et efficaces.
+
+## Télécharger
+
+PONG Remake est disponible partout, sauf sur appareil mobile.
+
+PONG Remake sur mac --> (téléchargez ici)[https://drive.google.com/uc?export=download&id=1Lf2-Tlou4vegCtU_bbu_yd4DBxFaNWEh]
