@@ -12,6 +12,6 @@ Développé sur Scratch , PONG Remake reste fidèle au style rétro du jeu origi
 
 ## Télécharger
 
-PONG Remake est disponible partout, sauf sur appareil mobile.
+*PONG Remake est disponible partout, sauf sur appareil mobile.*
 
 PONG Remake sur mac --> [téléchargez ici](https://drive.google.com/uc?export=download&id=1Lf2-Tlou4vegCtU_bbu_yd4DBxFaNWEh)
