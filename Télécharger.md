@@ -1,6 +1,6 @@
 # Télécharger
 
-## **PONG Remake est disponible partout, sauf sur appareil mobile.**
+### **PONG Remake est disponible partout, sauf sur appareil mobile.**
 
  PONG Remake sur mac --> [téléchargez ici](https://drive.google.com/uc?export=download&id=1i0wipvtOF7LjIcP9f__FTEyKncvAOR-5)
 
