@@ -24,7 +24,7 @@ Développé sur Scratch , PONG Remake reste fidèle au style rétro du jeu origi
 
  PONG Remake sur mac --> [téléchargez ici](https://drive.google.com/uc?export=download&id=1i0wipvtOF7LjIcP9f__FTEyKncvAOR-5)
 
-⊞ PONG Remake sur windows --> [téléchargez ici](https://drive.google.com/uc?export=download&id=1s7WIti4Df2ySZnahILv81DIpg85WKKAj)
+⊞ PONG Remake sur windows --> [téléchargez ici](https://drive.google.com/uc?export=download&id=1irhYipGEVypOjGeevq8xwwTfbrhyyIdg)
 
 
 ## Info
